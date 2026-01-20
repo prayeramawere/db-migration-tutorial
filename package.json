@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/prayeramawere/db-migration-tutorial/issues"
   },
-  "homepage": "https://github.com/prayeramawere/db-migration-tutorial#readme"
+  "homepage": "https://github.com/prayeramawere/db-migration-tutorial#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.17.1"
+  }
 }
