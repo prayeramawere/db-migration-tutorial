@@ -1,0 +1,9 @@
+{
+    "dev":{
+        "driver":"pg",
+        "host":"localhost",
+        "user":"literal",
+        "password":"literal#243",
+        "database":"migrationdb"
+    }
+}
